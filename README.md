@@ -3,8 +3,8 @@ Este é um **e-commerce** para a *empresa X*, feito em PHP e MySQL.
 
 ## Funcionalidades
 
-checkout, teste, teste
+**checkout**, teste, teste
 
 ###### Melhorias:
 
-Proximas melhorias
+__Proximas__ _melhorias_

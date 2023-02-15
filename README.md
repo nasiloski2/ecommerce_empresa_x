@@ -27,4 +27,4 @@ __Proximas__ _melhorias_
 3. Sistema de bônus primeira compra
 
 #### Imagem Externa
-![Logo do PHP](https://upload.wikipedia.org/wikipedia/commons/2/27/PHP-logo.svg)
+![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)

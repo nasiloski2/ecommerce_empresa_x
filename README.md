@@ -16,3 +16,9 @@ __Proximas__ _melhorias_
 * JavaScript
 * PHP
 * MySQL
+
+### Funcionalidades a desenvolver
+
+1. Área de menbros
+2. Integrção com outros pagamentos
+3. Sistema de bônus primeira compra

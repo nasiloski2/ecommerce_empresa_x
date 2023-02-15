@@ -25,3 +25,6 @@ __Proximas__ _melhorias_
     3. css diferente
 2. Integrção com outros pagamentos
 3. Sistema de bônus primeira compra
+
+#### Imagem Externa
+![Logo do PHP](https://upload.wikipedia.org/wikipedia/commons/2/27/PHP-logo.svg)

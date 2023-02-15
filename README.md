@@ -28,3 +28,9 @@ __Proximas__ _melhorias_
 
 #### Imagem Externa
 ![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)
+
+#### Link Externo
+
+[Google](https://www.google.com.br)
+
+[https://www.google.com.br](https://www.google.com.br)

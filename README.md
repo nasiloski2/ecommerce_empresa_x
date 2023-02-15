@@ -34,3 +34,5 @@ __Proximas__ _melhorias_
 [Google](https://www.google.com.br)
 
 [https://www.google.com.br](https://www.google.com.br)
+
+[![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)](https://www.google.com.br)

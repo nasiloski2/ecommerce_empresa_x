@@ -8,3 +8,11 @@ Este é um **e-commerce** para a *empresa X*, feito em PHP e MySQL.
 ###### Melhorias:
 
 __Proximas__ _melhorias_
+
+### Linguaguen do projeto:
+
+* HTML
+* CSS
+* JavaScript
+* PHP
+* MySQL
